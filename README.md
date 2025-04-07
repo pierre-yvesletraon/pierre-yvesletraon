@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon GitHub !
 
 ## 🌟 À propos de moi
-Bonjour, je suis **Pierre-Yves Le Traon**, un développeur web passionné en reconversion professionnelle après 20 ans d'expérience dans le droit et la traduction. Actuellement en formation intensive chez [O'clock](https://oclock.io), je suis spécialisé dans le développement **full-stack** avec des compétences solides en **HTML, CSS, JavaScript, React, Node.js** et bien plus encore.
+Bonjour, je suis **Pierre-Yves Le Traon**, développeur web passionné par le back-end, en reconversion professionnelle après 20 ans d'expérience dans le droit et la traduction. Je suis actuellement en formation intensive chez [O'clock](https://oclock.io) en développement web **full-stack** où j'acquiers des compétences solides en **HTML, CSS, JavaScript, React, Node.js** et bien plus encore.
 
 🎯 **Mon objectif** : Apprendre, créer et contribuer à des projets innovants tout en mettant à profit mes compétences analytiques, ma rigueur et ma polyvalence.
 
@@ -12,34 +12,35 @@ Bonjour, je suis **Pierre-Yves Le Traon**, un développeur web passionné en rec
 ### Front-end
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=%23FFF)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ### Back-end
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-
-### Bases de données
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-- Merise (MCD, MLD, MPD)
+- ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 ### Outils et technologies
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-- Windows 11 / Linux (Ubuntu)
-- IA : Gemini Code Assist, GitHub Copilot
+- ![Static Badge](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=%23FFF)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Gemini Code Assist](https://img.shields.io/badge/Gemini_Code_Assist-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ## 🚀 Projets récents
 🔧 Je travaille sur plusieurs projets en cours pour mettre en pratique mes compétences. Voici quelques exemples que vous pouvez explorer :
-1. **[Nom du projet 1](#)** : Description rapide du projet.
-2. **[Nom du projet 2](#)** : Description rapide du projet.
-3. **[Nom du projet 3](#)** : Description rapide du projet.
-
-*(Les liens vers les projets seront ajoutés une fois disponibles.)*
+1. **[Ocoffee](https://github.com/pierre-yvesletraon/Ocoffee)** : Le site vitrine d'une boutique de café en ligne en architecture MVC (back-end Node.js/Express).
+2. **[Pokédex](https://github.com/pierre-yvesletraon/Pokedex-JS)** : Un Pokédex en architecture SPA(JavaScript)/API REST (Node.js/Express).
+3. **[Lecteur MP3](https://github.com/pierre-yvesletraon/JS-MP3-player)** : Un lecteur MP3 réalisé en JavaScript.
 
 ---
 
@@ -70,13 +71,14 @@ Avant ma reconversion dans le développement web, j'ai travaillé pendant plus d
 - Analyse des besoins clients
 - Rédaction technique et documentation
 - Résolution de problèmes techniques (hardware/software)
+- Traduction anglais-français/français-anglais
+- Compréhension des enjeux juridiques, réglementaires et business
 
 ---
 
 ## 📫 Me contacter
 
 📧 Email : [pyletraon@gmail.com](mailto:pyletraon@gmail.com)  
-📞 Téléphone : +33 6 28 03 06 40  
 🌐 LinkedIn : [Pierre-Yves Le Traon](https://www.linkedin.com/in/pierre-yves-le-traon-56365194/)  
 
 ---
