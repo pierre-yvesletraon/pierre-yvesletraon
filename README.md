@@ -1,7 +1,7 @@
 # 👋 Bienvenue sur mon GitHub !
 
 ## 🌟 À propos de moi
-Bonjour, je suis **Pierre-Yves Le Traon**, développeur web passionné par le back-end, en reconversion professionnelle après 20 ans d'expérience dans le droit et la traduction. Je suis actuellement en formation intensive chez [O'clock](https://oclock.io) en développement web **full-stack** où j'acquiers des compétences solides en **HTML, CSS, JavaScript, React, Node.js** et bien plus encore.
+Bonjour, je suis **Pierre-Yves Le Traon**, développeur web passionné par le back-end, en reconversion professionnelle après 20 ans d'expérience dans le droit et la traduction. Je suis actuellement en formation intensive chez [O'clock](https://oclock.io) en développement web **full-stack** où j'ai pu acquérir des compétences solides en **HTML, CSS, JavaScript, React, Node.js** et bien plus encore.
 
 🎯 **Mon objectif** : Apprendre, créer et contribuer à des projets innovants tout en mettant à profit mes compétences analytiques, ma rigueur et ma polyvalence.
 
