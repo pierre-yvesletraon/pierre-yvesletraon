@@ -38,6 +38,7 @@ Bonjour, je suis **Pierre-Yves Le Traon**, développeur web passionné par le ba
 
 ## 🚀 Projets récents
 🔧 Je travaille sur plusieurs projets en cours pour mettre en pratique mes compétences. Voici quelques exemples que vous pouvez explorer :
+1. **[La Pince](https://github.com/pierre-yvesletraon/la-pince-back)** : Une application de gestion de finances personnelles en architecture client serveur (front : SPA sous React/back : API REST sous NodeJS/Express)
 1. **[Ocoffee](https://github.com/pierre-yvesletraon/Ocoffee)** : Le site vitrine d'une boutique de café en ligne en architecture MVC (back-end Node.js/Express).
 2. **[Pokédex](https://github.com/pierre-yvesletraon/Pokedex-JS)** : Un Pokédex en architecture SPA(JavaScript)/API REST (Node.js/Express).
 3. **[Lecteur MP3](https://github.com/pierre-yvesletraon/JS-MP3-player)** : Un lecteur MP3 réalisé en JavaScript.
